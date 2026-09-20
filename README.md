@@ -1,0 +1,3 @@
+# Prediq
+
+Football prediction platform.
